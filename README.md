@@ -22,5 +22,5 @@ LapEnded
 DriverCrashed  
 DriverRetired  
 SafetyCarReleased  
-SafetCarWithdrawn  
+SafetyCarWithdrawn  
 RaceEnded  
